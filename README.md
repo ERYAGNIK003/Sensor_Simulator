@@ -7,3 +7,9 @@ Here, sensor simulator is generating time and tag ID which is possibly detected 
 So, sensor simulator will generate total 100 entries (time and tagID) , you need to just store it on EEPROM ,but with proper format.That's it.
 
 THIS LAB ASSIGNMENT IS having SIMPLY Structure read/write operations. Nothing else.I have already provided diagram of EEPROM, that show you how to store FileSystem Components.
+
+INPUT 
+Time and TagID (genetarated by simulator)
+
+OUTPUT
+EEPROM data , stored in defined format
