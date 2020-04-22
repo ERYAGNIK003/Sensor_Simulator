@@ -5,6 +5,7 @@ Step 3. Take another structure with two members, one must be 8-bit and other is 
         how to store 16-bit number into 8-bit EEPROM.
 Step 4. Fill both the tables as given in assignment pdf.        
 Step 5. Use example3.c ,How to implement Filesystem.
+        compiling code step : gcc example3.c -o ex3 libeeprom.a
 Step 6. Use simulator to get data and store it accordingly, this one is your final assignment.
 
 Each time for debugging you can check log file OR you can read back EEPROM and write it onto terminal to check it's contents.
