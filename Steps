@@ -3,7 +3,8 @@ Step 1. perform both the examples and clears any doubt regarding to use of simul
 Step 2. Simply write one structure(you can use Data_Entry structure[refer assignment pdf]) and read back.
 Step 3. Take another structure with two members, one must be 8-bit and other is 16-bit.So, here you will get idea about 
         how to store 16-bit number into 8-bit EEPROM.
-Step 4. Use example3.c ,How to implement Filesystem.
-Step 5. Use simulator to get data and store it accordingly, this one is your final assignment.
+Step 4. Fill both the tables as given in assignment pdf.        
+Step 5. Use example3.c ,How to implement Filesystem.
+Step 6. Use simulator to get data and store it accordingly, this one is your final assignment.
 
 Each time for debugging you can check log file OR you can read back EEPROM and write it onto terminal to check it's contents.
